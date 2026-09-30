@@ -1,0 +1,17 @@
+# Table of contents
+
+* [INTRODUÇÃO](README.md)
+* [REGRAS DISCORD](regras-discord.md)
+* [REGRAS GERAIS](regras-gerais.md)
+* [REGRAS DE DESMAIO](regras-de-desmaio.md)
+* [REGRAS PARA EMPRESAS](regras-para-empresas.md)
+* [REGRAS TRABALHOS LEGAIS](regras-trabalhos-legais.md)
+* [REGRAS DO ILEGAL](regras-do-ilegal.md)
+* [REGRAS DA LAVAGEM](regras-da-lavagem.md)
+* [REGRAS TRIBUNAL DO CRIME](regras-tribunal-do-crime.md)
+* [REGRAS DA POLICIA](regras-da-policia.md)
+* [REGRAS DE PERSONAGENS](regras-de-personagens.md)
+* [REGRAS DE AÇÃO](regras-de-acao.md)
+* [REGRAS DO PARAGUAI](regras-do-paraguai.md)
+* [SISTEMA DE PUNIÇÕES](sistema-de-punicoes.md)
+* [REGISTRO DE DENÚNCIAS](registro-de-denuncias.md)
