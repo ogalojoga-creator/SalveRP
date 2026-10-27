@@ -11,25 +11,25 @@ Ao ser desmaiado durante uma ação, os jogadores devem seguir rigorosamente os 
 ### 2.1. Situação de Respawn
 
 * Se o personagem desmaiado não for salvo durante o tempo necessário e optar pelo respawn (/gg), deverá esquecer absolutamente tudo que aconteceu antes de desmaiar. Não poderá relembrar ou mencionar eventos, pessoas ou motivações que antecederam o desmaio.
-* Caso o personagem seja executado ou tenha seu corpo encaminhado ao necrotério (óbito declarado) pela polícia, o jogador deverá apagar qualquer memória relacionada aos fatos que antecederam sua morte, ainda que não seja uma morte permanente (PD). Todas as informações, vínculos e relações estabelecidos durante aquele episódio deverão ser desconsiderados (pra garantir que o player não vai lembrar de nada, a execução é fortemente recomendada).
+* Se abatido e abandonado em local isolado (com intenção de ocultar o corpo), o jogador deve apagar qualquer memória sobre o evento, mesmo que seja encontrado posteriormente por acaso. Todos os laços e relações criadas durante aquele episódio devem ser desconsiderados.
 * É proibido retornar à ação que levou ao desmaio após respawn. A ação em questão deve ser considerada encerrada para o personagem, assim como toda lembrança do ocorrido.
 
 ### 2.2. Salvamento e Hospitalização
 
-* Se o personagem for salvo e levado ao hospital durante o roleplay, todas as memórias do ocorrido podem ser mantidas. Isso inclui situações onde amigos, aliados ou até mesmo membros da ação providenciam resgate ou condução até o hospital.
+* Se o personagem for salvo e levado ao hospital durante o roleplay, todas as memórias do ocorrido podem ser mantidas. Isso inclui situações onde amigos, aliados ou até mesmo membros da ação ilegal providenciam resgate ou condução até o hospital.
 * É estritamente proibido forçar respawn (/gg) enquanto houver possibilidade concreta de salvamento dentro do RP. Tal atitude será caracterizada como Combat Logging (CL) e poderá resultar em punição.
 
 ### 3. Situações Específicas de Desmaio
 
 ### 3.1. Sequestros e Voz de Parada
 
-Em ações de sequestro de **policiais**, após receber voz de parada, caso haja reação e houver desmaio, o(s) criminoso(s) poderá(ão) conduzir a vitima até o hospital apenas enquanto a mesma estiver agonizando bem como solicitar atendimento médico. Caso isso ocorra, o personagem poderá ser restaurado e o RP do sequestro deverá seguir normalmente, mantendo as lembranças da ocorrência.\
+Em ações de sequestro de **policiais**, após receber voz de parada, caso aja reação e houver desmaio, o(s) criminoso(s) poderá(ão) conduzir a vitima até o hospital apenas enquanto a mesma estiver agonizando. Caso isso ocorra, o personagem poderá ser restaurado e o RP do sequestro seguirá normalmente, mantendo as lembranças da ocorrência.\
 \
-Em casos de sequestro a players que não são policiais, a reação será contada como anti-amor a vida e caso haja o desmaio, poderá ser reanimado no HP ou por um médico e deverá dar continuidade no RP. ( Isso não isenta de punição administrativa, todavia afasta o PD ).
+Em casos de sequestro a players que não são policiais, a reação será contada como anti amor a vida.
 
 ### 3.2. Ações Fechadas
 
-Nas ações fechadas (locais particulares, planejados), se houver queda/desmaio e se o tempo de renascimento acabar, o jogador só poderá utilizar /gg para retornar ao hospital ao término da ação ou então deverá aguardar atendimento médico bem como poderá ser aplicado o saco preto.
+Nas ações fechadas (locais particulares, planejados), se houver queda/desmaio e se o tempo de renascimento acabar, o jogador poderá utilizar /gg para retornar ao hospital.
 
 * Após renascimento, o personagem deve esquecer tudo o que originou aquele desmaio, sem voltar para a ação em questão.
 * Não é permitido retomar envolvimento na ação nem recordar motivos, circunstâncias ou participantes do RP anterior.
@@ -39,7 +39,7 @@ Nas ações fechadas (locais particulares, planejados), se houver queda/desmaio 
 Nas ações de rua, é obrigatório aguardar até a finalização completa do RP antes de qualquer utilização do /gg ou solicitação de tratamento médico.
 
 * A vitória de um lado deve ser claramente definida.
-* Em caso de vitória policial, os agentes podem decidir conduzir bandidos desmaiados ao hospital e, posteriormente, à delegacia para prisão, para os jogadores finalizados, deverá ser solicitado a Polícia Civil para aplicação do saco preto ou o abandono dos corpos no local.
+* Em caso de vitória policial, os agentes podem decidir conduzir bandidos desmaiados ao hospital e, posteriormente, à delegacia para prisão.
 * Se o lado ilegal vencer, a ação encerra-se com a saída deles do local; não é permitido o uso de respawn (/gg) mesmo que o tempo máximo tenha sido ultrapassado.
 
 É vetado solicitar o comando /doctor durante um RP de troca de tiros ou qualquer ação em andamento; o tratamento só pode ser pedido após o término da ação.

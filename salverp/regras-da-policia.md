@@ -38,27 +38,10 @@ Nos casos de prevaricação e do cafézinho, caso o personagem seja descoberto, 
 * Proibido Rocam dar "ratão" com as motos.
 * Proibido motos serem usadas para cerco ou para fechar veículos no intuito de forçar uma queda.
 * Ao cair da moto, o oficial deve abandonar a fuga, da mesma forma que os bandidos fazem.
-* Limite de 4 unidades por veículo suspeito.
-* Proibido uso de viatura para impedir fuga de forma abusiva. ( ratão, block com viatura em movimento, fechamento de portas de estabelecimentos ).
-* Obrigatório liberar fuga ( dar continuidade ) em caso de falha policial, seja por vSync, tempo de frenagem, disparo acidental, batida acidental ou qualquer outra coisa que prejudique o indivíduo.
 
 **Equipamentos**
 
 * Permitido uso de bombas de gás apenas na ação do Banco Central.
-
-**Mandados de Busca e Apreensão**
-
-* Momentos onde serão permitidos a execução de mandados de busca e apreensão:&#x20;
-  * Conclusão de investigação da polícia civil (mediante aprovação da staff).
-  * Situações onde o bandido fuja pra dentro de sua residência, sala bomba do ilegal ou qualquer outro lugar que possua tranca ou se acesse por um TP (teleporte).
-* <mark style="color:$danger;">**Em casos de mandados poderá (mas não necessariamente) ser apreendido:**</mark>
-  * Dinheiro Limpo
-  * Dinheiro Sujo
-  * Todos os itens no baú
-* <mark style="color:$danger;">**Não será permitido apreender:**</mark>&#x20;
-  * itens VIP: pipas, linhas, tickets de roleta, testosterona, placas customizadas, verificados e etc.)
-* Será permitido resistência dos bandidos em casos de mandados.
-* Fica proibido emboscadas dentro de locais com teleporte (fugir pra dentro de locais e deixar pessoas aguardando policiais para atirar quando aparecerem).
 
 **Regras Protege**
 
@@ -74,4 +57,3 @@ Nos casos de prevaricação e do cafézinho, caso o personagem seja descoberto, 
 
 
 <br>
-

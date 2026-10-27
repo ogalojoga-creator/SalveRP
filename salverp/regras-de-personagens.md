@@ -5,16 +5,13 @@
 
 
 * É expressamente proibida a criação de personagens menores de 18 anos.
-* O nome do seu personagem deve ser um nome real. Não utilize nome com duplos sentidos, ofensivos ou sem sentido ( sob pena de suspensão da AL até adequação ou substituição aleatória ).
+* O nome do seu personagem deve ser um nome real. Não utilize nome com duplos sentidos, ofensivos ou sem sentido.
 * A aparência do seu personagem é muito importante, pois ele é o que as pessoas vão ver do seu RP. Seja criativo na criação e não tenha pressa. Não faça um personagem padrão, seja diferente.
 * Caso tenha mais de um personagem, é proibido qualquer tipo de ligação entre os dois. (exemplo: ter um personagem que é parente de um outro que você possua)
 * Os personagens precisam ser diferentes.
 * Personagens extras não podem receber itens, veículos ou dinheiro que venham dos seus outros personagens.
 * Caso o seu personagem sofra com uma morte permanente (PD), é proibido recriá-lo e voltar a ter a mesma vida do personagem falecido (isso serve para qualquer cargo ou função de RP do servidor, sendo legal ou ilegal).
-* Proíbido ter um personagem na polícia e outro em organização ilegal ( set ilegal )
-* Poderá ser adquirido novos slot de personagens no site de doações.
-
-
+* É proibido ter personagens na polícia e no ilegal ao mesmo tempo. Caso queira estar em um, tem que abrir mão do outro. (Essa regra não vale apenas para set, ela engloba todo o contexto do RP. Se o personagem não estiver setado no ilegal, mas estiver dentro do RP do ilegal de alguma forma, conta como personagem ilegal.)
 
 ## **Permanent Death**&#x20;
 
@@ -30,7 +27,3 @@ Alguns casos que levam o personagem ao PD:
 * Receber um decreto de morte no tribunal do crime.
 
 Situações de anti-amor a vida em geral podem acarretar no PD do seu personagem.
-
-Será permitido resetar/PD do próprio personagem mediante solicitação via ticket.
-
-Em casos de morte permanente encerra o personagem. ( itens vips serão transferidos )

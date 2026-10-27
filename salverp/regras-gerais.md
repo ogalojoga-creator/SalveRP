@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **IMPORTANTE!**
 
-Não aceitamos qualquer tipo de preconceito, assédio ou doxxing dentro ou fora do Roleplay. Qualquer situação que envolva alguma coisa desse tipo, a tolerância será ZERO! **RESPEITEM OS MANO!** **RESPEITEM AS MINA! RESPEITEM TODOS!**
+Não aceitamos qualquer tipo de preconceito ou assédio dentro ou fora do Roleplay. Qualquer situação que envolva alguma coisa desse tipo, a tolerância será ZERO! **RESPEITEM OS MANO!** **RESPEITEM AS MINA! RESPEITEM TODOS!**
 {% endhint %}
 
 **REGRA PRIMORDIAL: BOM SENSO**
@@ -157,22 +157,12 @@ No Salve, essa manobra é **PROIBIDA**. Caso a transação for confirmada, resul
 
 * Proibido vender itens ilegais em aplicativos legais do servidor (market place, yellow pages, instapic, etc)
 * Proibido personagens que trabalham na polícia ou no hospital executarem qualquer atividade ilegal no servidor. Personagens pegos infringindo essa regra serão exonerados e tomarão punição por Fail RP. (Exceção para regra de prevaricação da polícia).
-* Agir de maneira que provoque confusão ou tentar ludibriar a staff será considerado quebra de regra de conduta.
 
 **Regras Helicóptero**
 
 * Proibido usar helicópteros para resgates em fugas.
 * Proibido pousar com o helicóptero em locais inacessíveis para quem estiver no chão com o intuito de ter benefício em situações de troca de tiros. Ex: prédios sem escadas ou sem algum acesso para a subida.
 
-**Regras de Reconhecimento de Personagens**
 
-O Salve incentiva a criatividade dentro do RP, logo temos regras específicas para reconhecer outro personagem.
-
-Com isso, permitimos que o reconhecimento pela voz seja possível.&#x20;
-
-Será considerado meta reconhecer personagens por voz apenas em casos que:
-
-* Players sejam reconhecidos mesmo com o claro esforço em esconder a voz (player usando modificador ou mudando tom de voz).
-* Player seja reconhecido como um personagem antigo mesmo quando o mesmo claramente está fazendo outro personagem.
 
 <br>

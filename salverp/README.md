@@ -1,16 +1,20 @@
 # INTRODUÇÃO
 
-<figure><img src=".gitbook/assets/logo salve z final 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Leia com atenção todas as regras! As mesmas foram feitas com intuito de ajudar a manter um ambiente de RP saudável, e não com intuito punitivo! Separe alguns minutos do seu tempo para ler todas as regras antes de fazer seu primeiro login no servidor!
 {% endhint %}
 
-## Seja bem-vindo(a) ao Salve Z!
+<p align="center">Regras atualizadas dia 08/04/2026</p>
 
-Somos um servidor de sobrevivência ambientado em SP que une zumbis e roleplay, com foco em **SOBREVIVER** de fato.&#x20;
+### Requisitos básicos para jogar no Salve
 
-Data da última alteração deste documento: **27/10/2026 às 15:59**
+* Idade mínima de 18 anos, pois estamos de acordo com todas as condutas importas pela Rockstar Games e pelo FiveM. (Dúvidas sobre isso? [Clique aqui](https://runtime.fivem.net/platform-license-agreement-12-sept-2023.pdf))&#x20;
+* Não possuir qualquer tipo de modificação gráfica que traga vantagens! Permitidos apenas modificadores gráficos como por exemplo QuantV ou NVE.&#x20;
+* Ter conhecimento de todas as regras do servidor.&#x20;
+
+O nosso servidor foi feito com o único intuito de divertir seus jogadores e construir uma comunidade saudável e sólida, com isso, algumas regras fundamentais precisam ser seguidas.
 
 > <mark style="color:$danger;">ATENÇÃO: ao jogar no Salve, você automaticamente autoriza o uso da sua imagem e da sua voz em clipes gerados pelo servidor e pela sua comunidade.</mark>
 
