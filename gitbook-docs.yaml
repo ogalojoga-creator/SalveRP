@@ -4,15 +4,8 @@ site:
   structure:
     - type: space
       key: space-1
-      title: REGRAS SALVE Z (SOBREVIVÊNCIA)
+      title: REGRAS SALVE SP
       path: untitled
       default: true
       content:
         directory: ./salverp
-    - type: space
-      key: space-2
-      title: Copy of REGRAS SALVE Z (SOBREVIVÊNCIA)
-      path: copy-of-regras-salve-z-sobrevivencia
-      draft: true
-      content:
-        directory: ./copy-of-regras-salve-z-sobrevivencia
